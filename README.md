@@ -87,9 +87,13 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 
 ![image](https://user-images.githubusercontent.com/87340105/155918430-dd521553-a8be-4218-97d4-90454fca5180.png)
 
+![image](https://user-images.githubusercontent.com/87340105/155918640-1f8963c4-afc6-471d-b4cb-2568b66b7992.png)
+
+
 ### 3.) Create a table with tradable cryptocurrencies using the hvplot.table() function.
 
-![image](https://user-images.githubusercontent.com/87340105/155918500-af79dcd5-9ee9-4521-bad9-e70c874a923a.png)
+![image](https://user-images.githubusercontent.com/87340105/155918664-04d0743b-95a6-4fa3-93bd-7e79373e088b.png)
+
 
 
 
