@@ -41,3 +41,28 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 ### Use the StandardScaler fit_transform() function to standardize the features from the X DataFrame.
 
 ![image](https://user-images.githubusercontent.com/87340105/155916725-807ac384-32f2-478c-8181-27519d527686.png)
+
+## Deliverable 2: Reducing Data Dimensions Using PCA
+
+### Apply PCA to reduce the dimensions to three principal components.
+
+![image](https://user-images.githubusercontent.com/87340105/155916862-cebaf284-fe41-40ef-8084-c15c8f2d480e.png)
+
+### Create a new DataFrame named pcs_df that includes the following columns:
+* PC 1
+* PC 2
+* PC 3
+* Uses the index of the crypto_df DataFrame as the index.
+
+![image](https://user-images.githubusercontent.com/87340105/155916962-9f16359a-4627-44f4-97ca-1d95906fb4ab.png)
+
+
+
+
+
+
+
+
+
+
+
