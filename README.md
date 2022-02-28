@@ -81,22 +81,37 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 
 ![image](https://user-images.githubusercontent.com/87340105/155918039-1872e95c-aa34-4b3a-91b8-607f68b16e3d.png)
 
-![image](https://user-images.githubusercontent.com/87340105/155918141-501303c8-621a-43b7-99b7-e441187d1e55.png)
-
 ### 2.) Add the CoinName and Algorithm columns to the hover_name and hover_data parameters, respectively, so each data point shows the CoinName and Algorithm on hover.
 
-![image](https://user-images.githubusercontent.com/87340105/155918430-dd521553-a8be-4218-97d4-90454fca5180.png)
-
-![image](https://user-images.githubusercontent.com/87340105/155918640-1f8963c4-afc6-471d-b4cb-2568b66b7992.png)
-
+![image](https://user-images.githubusercontent.com/87340105/155918141-501303c8-621a-43b7-99b7-e441187d1e55.png)
 
 ### 3.) Create a table with tradable cryptocurrencies using the hvplot.table() function.
 
-![image](https://user-images.githubusercontent.com/87340105/155918664-04d0743b-95a6-4fa3-93bd-7e79373e088b.png)
+![image](https://user-images.githubusercontent.com/87340105/155919237-b025994e-39d9-46dd-bff6-d210a6aba720.png)
 
+### 4.) Print the total number of tradable cryptocurrencies in the clustered_df DataFrame.
 
+![image](https://user-images.githubusercontent.com/87340105/155919398-637a85f2-49e4-4a2a-80e5-f4088e783c09.png)
 
+### 5.) Use the MinMaxScaler().fit_transform method to scale the TotalCoinSupply and TotalCoinsMined columns between the given range of zero and one.
 
+![image](https://user-images.githubusercontent.com/87340105/155919428-ecefdd18-562f-494e-88db-4738b5594169.png)
+
+### 6.) Create a new DataFrame using the clustered_df DataFrame index that contains the scaled data you created in Step 5.
+
+![image](https://user-images.githubusercontent.com/87340105/155919453-a3199774-abf6-4a23-91eb-06c9f8809a20.png)
+
+### 7.) Add the CoinName column from the clustered_df DataFrame to the new DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155919502-aa393e99-751b-4a75-bdfb-9c96a5d071ce.png)
+
+### 8.) Add the Class column from the clustered_df DataFrame to the new DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155919570-1db7b6e6-a2d0-4be8-85ae-3e35f13e3a2e.png)
+
+### 9.) Create an hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class", and have it show the CoinName when you hover over the the data point.
+
+![image](https://user-images.githubusercontent.com/87340105/155919639-29ce1f48-d70e-4a09-8b74-e8b53e25aae3.png)
 
 
 
