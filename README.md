@@ -75,7 +75,21 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 
 ![image](https://user-images.githubusercontent.com/87340105/155917603-dfbde660-6d87-45a6-95e4-f4d04924c1ab.png)
 
+## Deliverable 4: Visualizing Cryptocurrencies Results
 
+### 1.) Create a 3D scatter plot using the Plotly Express scatter_3d() function to plot the three clusters from the clustered_df DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155918039-1872e95c-aa34-4b3a-91b8-607f68b16e3d.png)
+
+![image](https://user-images.githubusercontent.com/87340105/155918141-501303c8-621a-43b7-99b7-e441187d1e55.png)
+
+### 2.) Add the CoinName and Algorithm columns to the hover_name and hover_data parameters, respectively, so each data point shows the CoinName and Algorithm on hover.
+
+![image](https://user-images.githubusercontent.com/87340105/155918430-dd521553-a8be-4218-97d4-90454fca5180.png)
+
+### 3.) Create a table with tradable cryptocurrencies using the hvplot.table() function.
+
+![image](https://user-images.githubusercontent.com/87340105/155918500-af79dcd5-9ee9-4521-bad9-e70c874a923a.png)
 
 
 
